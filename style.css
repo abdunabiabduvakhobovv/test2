@@ -1,0 +1,46 @@
+.test {
+    
+    background-color: chocolate;
+    padding: 30px;
+    text-align: center;
+}
+.button {
+    display: flex;
+    justify-content: space-around;
+}
+.BTN{
+    width: 250px;
+    padding: 20px 0;
+    border: solid 2px;
+    justify-content: space-around;
+}
+.card{
+    background-color: rgb(255, 255, 255);
+    
+    width: 450px;
+}
+
+.Wrapper{
+    background-color: beige;
+
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.bg-card{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.text-item{
+    background-color: blue;
+}
+
+
+
+
+
+
+
+
+
